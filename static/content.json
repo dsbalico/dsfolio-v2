@@ -1,0 +1,135 @@
+{
+    "meta": {
+        "title": "DSFolio",
+        "description": "I'm a software engineer specializing in full-stack web development. My expertise lies in crafting scalable, secure, and dependable web applications using a range of frameworks and technologies.",
+        "keywords": "daniel shan balico, daniel balico, dsbalico, dsfolio, software engineer, full-stack web developer, web developer, web development, software developer, software development, html, css, javascript, typescript, python, reactjs, expressjs, nodejs, vue, nuxt, mongodb, postgresql, porfolio, personal porfolio, personal website, web developer portfolio, web developer website, web developer porfolio website, web developer personal website, web developer personal porfolio"
+    },
+
+    "name": "Daniel Shan Balico",
+    "role": "Software Engineer",
+    "description": "I'm a software engineer specializing in full-stack web development. My expertise lies in crafting scalable, secure, and dependable web applications using a range of frameworks and technologies. I thrive on tackling intricate challenges, constantly expanding my skill set, and delivering top-notch code that adheres to the highest standards and best practices in the industry.",
+    "index_image": "/img/img1.webp",
+
+    "about_description": "Hello! I'm Daniel Shan Balico, currently pursuing computer science at Technological University of the Philippines. My enthusiasm lies in software engineering, driving me to continuously explore new technologies and enhance my skill set. Here are some of the technologies I've been working with recently:",
+    "about_image": "/img/img2.webp",
+    "education": [
+        {
+            "image": "/img/tup.webp",
+            "organization": "Technological University of the Philippines",
+            "subtitle": "BS in Computer Science",
+            "date": "2020 - Present"
+        },
+        {
+            "image": "/img/sti.webp",
+            "organization": "STI College Caloocan",
+            "subtitle": "ICT in Mobile App & Web Dev",
+            "date": "2018 - 2020"
+        }
+    ],
+    "experience": [
+        {
+            "image": "/img/ccci.webp",
+            "organization": "Centralized Cloud Computing International, Inc.",
+            "subtitle": "Full Stack Developer Intern",
+            "date": "2024 - Present"
+        },
+        {
+            "image": "/img/spvttc.webp",
+            "organization": "St. Peter Velle Technical Training Center",
+            "subtitle": "Work Immersion - Web Dev",
+            "date": "2019"
+        }
+    ],
+    "social_links": {
+        "linkedin": "https://www.linkedin.com/in/dsbalico/",
+        "github": "https://www.github.com/dsbalico/",
+        "twitter": "https://www.x.com/dsbalico",
+        "instagram": "https://www.instagram.com/dsbalico/",
+        "facebook": "https://www.facebook.com/dsbalico"
+    },
+    "email": "danielshan.balico@gmail.com",
+
+    "certificates": [
+        {
+            "title": "Foundations of Cybersecurity Certificate from Coursera & Authorized by IBM",
+            "image": "https://coursera-certificate-images.s3.amazonaws.com/SF2PPLNVTH6R"
+        },
+        {
+            "title": "Crash Course on Python Certificate from Coursera & Authorized by Google",
+            "image": "https://coursera-certificate-images.s3.amazonaws.com/S9773NBEK4S6"
+        },
+        {
+            "title": "Technical Support Fundamentals Certificate from Coursera & Authorized by Google",
+            "image": "https://coursera-certificate-images.s3.amazonaws.com/P9EH5HNYRESZ"
+        },
+        {
+            "title": "Introduction to Web Development with HTML, CSS, JavaScript Certificate from Coursera & Authorized by IBM",
+            "image": "https://coursera-certificate-images.s3.amazonaws.com/2UXGCW5Y9ZBX"
+        },
+        {
+            "title": "Introduction to Cloud Computing Certificate from Coursera & Authorized by IBM",
+            "image": "https://coursera-certificate-images.s3.amazonaws.com/JJ6WG8Y6T4BC"
+        },
+        {
+            "title": "Django Application Development with SQL and Databases Certificate from Coursera & Authorized by IBM",
+            "image": "https://coursera-certificate-images.s3.amazonaws.com/NPH6TU37W229"
+        },
+        {
+            "title": "Front-End Developer (React) Certificate from HackerRank",
+            "image": "/img/fe_cert.webp"
+        },
+        {
+            "title": "JavaScript (Intermediate) Certificate from HackerRank",
+            "image": "/img/js_cert.webp"
+        },
+        {
+            "title": "Software Engineer Certificate from HackerRank",
+            "image": "/img/se_cert.webp"
+        }
+    ],
+
+    "skills": {
+        "proglang": ["C", "C++", "C#", "JavaScript", "TypeScript", "Python"],
+        "libfw": ["React", "Express", "NodeJS", "Flask", "Tailwind", "Ant Design", "Tensorflow", "Vue", "Nuxt"],
+        "toolplat":  ["Git", "Github", "Netlify", "Vercel", "Firebase", "Postman", "PythonAnywhere"]
+    },
+
+    "projects": [
+        {
+            "title": "sudoku-solver",
+            "description": "Sudoku Solver is a web application that can generate or solve sudoku problems using simulated annealing, an optimization algorithm.",
+            "skills": ["React", "Tailwind", "TypeScript"],
+            "link": "https://sudoku-solver-sa.netlify.app/",
+            "github": "https://github.com/dsbalico/sudoku-solver-using-simulated-annealing"
+        },
+        
+        {
+            "title": "simple-chat-app",
+            "description": "A simple online chatting web application where you can create chat rooms and have a fun conversation with a group of people.",
+            "skills": ["React", "Tailwind", "Firebase"],
+            "link": "https://thechatroom.netlify.app/",
+            "github": "https://github.com/dsbalico/simple-chat-app"
+        },
+        {
+            "title": "pseudocode-to-c",
+            "description": "Pseudocode to C is a web app that translates pseudocode into C code, aiding in the transition from high-level logic to a lower-level language.",
+            "skills": ["React", "Flask", "SpaCy", "Tailwind"],
+            "link": "https://pseudocode-to-c.netlify.app/",
+            "github": "https://github.com/dsbalico/pseudocode-to-c"
+        },
+        {
+            "title": "probability-pick",
+            "description": "Probability Pick is a PCSO Lotto Number Generator that calculates the likelihood of selecting winning numbers based on historical draw data.",
+            "skills": ["React", "Flask", "Pandas"],
+            "link": "https://probability-pick.netlify.app/",
+            "github": "https://github.com/dsbalico/probability-pick"
+        },
+        {
+            "title": "draw-and-classify",
+            "description": "Draw & Classify is a web application designed to test my machine learning model, which classifies drawn letters, digits, or shapes.",
+            "skills": ["React", "Tailwind", "Tensorflow"],
+            "link": "https://letterdigitshape-classification.netlify.app/",
+            "github": "https://github.com/dsbalico/letter-digit-shape-classification"
+        }
+    ]
+}
