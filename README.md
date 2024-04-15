@@ -1,5 +1,11 @@
 # DSFolio V2
 
+<center>
+    <img src="/public/img/cover.png" alt="Reactfolio" />
+
+    https://dsfolio.vercel.app/
+</center>
+
 ## Installation
 1. Clone the repository
     ```bash 
