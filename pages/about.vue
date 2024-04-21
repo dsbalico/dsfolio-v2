@@ -124,7 +124,7 @@ useHead({
 <style scoped>
 .ant-carousel :deep(.slick-slide) {
     text-align: center;
-    line-height: 160px;
+    /* line-height: 160px; */
     background: #fff;
     overflow: hidden;
 }

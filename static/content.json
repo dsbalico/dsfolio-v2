@@ -52,27 +52,27 @@
     "certificates": [
         {
             "title": "Foundations of Cybersecurity Certificate from Coursera & Authorized by IBM",
-            "image": "https://coursera-certificate-images.s3.amazonaws.com/SF2PPLNVTH6R"
+            "image": "/img/cyber_cert.jpg"
         },
         {
             "title": "Crash Course on Python Certificate from Coursera & Authorized by Google",
-            "image": "https://coursera-certificate-images.s3.amazonaws.com/S9773NBEK4S6"
+            "image": "/img/python_cert.jpg"
         },
         {
             "title": "Technical Support Fundamentals Certificate from Coursera & Authorized by Google",
-            "image": "https://coursera-certificate-images.s3.amazonaws.com/P9EH5HNYRESZ"
+            "image": "/img/tsupport_cert.jpg"
         },
         {
             "title": "Introduction to Web Development with HTML, CSS, JavaScript Certificate from Coursera & Authorized by IBM",
-            "image": "https://coursera-certificate-images.s3.amazonaws.com/2UXGCW5Y9ZBX"
+            "image": "/img/web_dev_cert.jpg"
         },
         {
             "title": "Introduction to Cloud Computing Certificate from Coursera & Authorized by IBM",
-            "image": "https://coursera-certificate-images.s3.amazonaws.com/JJ6WG8Y6T4BC"
+            "image": "/img/cloud_cert.jpg"
         },
         {
             "title": "Django Application Development with SQL and Databases Certificate from Coursera & Authorized by IBM",
-            "image": "https://coursera-certificate-images.s3.amazonaws.com/NPH6TU37W229"
+            "image": "img/django_cert.jpg"
         },
         {
             "title": "Front-End Developer (React) Certificate from HackerRank",
